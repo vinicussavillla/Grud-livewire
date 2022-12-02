@@ -66,8 +66,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 =======
-# Grud-LIvewire Instalando o projeto
-PHP laravel 
+
+
+# Grud-Livewire - Instalando o projeto
 
 ### Instalar as dependências
 
