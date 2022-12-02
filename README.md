@@ -66,6 +66,34 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 =======
-# Grud-LIvewire
+# Grud-LIvewire Instalando o projeto
 PHP laravel 
->>>>>>>
+
+### Instalar as dependências
+
+```
+composer install
+```
+
+Ou em ambiente de desenvolvimento:
+
+```
+composer update
+```
+
+#### Criar arquivo de configuração de ambiente
+
+Copiar o arquivo de exemplo `.env.example` para `.env` na raiz do projeto configurar os detalhes da aplicação e conexão com o banco de dados. 
+
+
+#### Criar a estrutura no banco de dados 
+```
+php artisan migrate
+```
+
+#### Iniciar o servidor de desenvolvimento
+
+```
+php artisan serve
+```
+
