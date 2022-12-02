@@ -88,6 +88,7 @@ Copiar o arquivo de exemplo `.env.example` para `.env` na raiz do projeto config
 
 
 #### Criar a estrutura no banco de dados 
+
 ```
 php artisan migrate
 ```
